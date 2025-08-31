@@ -1,0 +1,47 @@
+ Disaster Response App (Resilience AI)
+
+**Live Demo:** [Resilience AI Disaster Response App](https://resilience-ai-de6f2d2f.base44.app)
+
+A web-based disaster management app that empowers communities to **report incidents, visualize disaster zones, and receive alerts in real time.**  
+Built using the **Base44 platform** with integrations for mapping and alerts.  
+
+---
+ Features
+- 📍 **Disaster Reporting** – Users can submit incidents (floods, earthquakes, fires, etc.) with location and optional photos.  
+- 🗺 **Interactive Map** – Reports are displayed in real-time on a map for easy visualization.  
+- 🔔 **Emergency Alerts** – Push notifications keep users updated about nearby disasters.  
+- 🏥 **Resource Finder** – Locate nearby shelters, hospitals, and relief centers.  
+📶 **Offline Support (Planned)** – Save reports offline and sync when internet is available.  
+
+---
+
+## 🛠 Tech & Tools
+- **Platform**: Base44 (AI-driven no-code development)  
+- **APIs/Integrations**: Google Maps API, Weather API, Push Notifications  
+- **Hosting**: Base44 Cloud  
+
+---
+ Problem & Impact
+- **Problem**: Communities in disaster-prone regions often lack **real-time tools** to report and access local emergency updates.  
+- **Solution**: This app enables faster reporting, visualization, and response coordination, supporting NGOs and authorities in saving lives.  
+
+---
+
+ Future Enhancements
+**AI-based Severity Detection** – Classify disasters and rank reports by urgency.  
+ **Multi-language Support** – Make the app accessible to more regions.  
+**Volunteer/Rescue Dashboard** – Connect volunteers with affected people.  
+ **Mobile App Version** – Build a cross-platform app using React Native.  
+
+---
+
+## 👤 Author
+Developed by JUSLIN RAFENA 
+- 🎓 Background: Civil Engineering + Software Development
+www.linkedin.com/in/juslin-rafena-180405jrm
+
+---
+ How to Explore
+1. Visit the **live demo**: [Disaster Response App](https://resilience-ai-de6f2d2f.base44.app)  
+2. Check out the planned features & screenshots in this repo.  
+3. Contact me for collaboration or suggestions!  
